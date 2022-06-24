@@ -1,4 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = '/'
 languageCode = 'en-us'
 title = '元宇宙导航平台'
 theme = 'paper'
+relativeUrls = true
